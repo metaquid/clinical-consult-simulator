@@ -1,4 +1,4 @@
-##Clinical Consult Simulator
+Clinical Consult Simulator
 
 ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![alt text](https://img.shields.io/badge/version-7.2-blue)
@@ -8,12 +8,12 @@ An AI-powered training platform designed to help medical professionals master th
 (Placeholder for a GIF showing the app workflow: Setup -> Consultation -> Debriefing)
 A brief animated GIF demonstrating the core loop of configuring a case, chatting with the AI patient, and reviewing the performance analysis dashboard would go here.
 
-##About The Project
+About The Project 
 Medical education excels at teaching clinical science, but often falls short in providing practical, hands-on training for the nuanced art of communication. How does a resident practice delivering a terminal diagnosis? How can a doctor learn to build rapport with a skeptical patient?
 Clinical Consult Simulator is a "flight simulator for doctors." It leverages the power of Large Language Models (LLMs) to create dynamic, realistic patient encounters. Practitioners can engage in challenging conversations, make decisions, and receive immediate, actionable feedback on their performance, all without the real-world consequences.
 The goal is to build more empathetic, effective, and confident medical professionals, which leads to better patient trust and improved health outcomes.
 
-##Key Features
+Key Features
 
 🧠 Dynamic AI Patient Generation: Go beyond static scripts. Define a patient's key symptoms and personality archetype (e.g., "anxious," "stoic," "angry"), and the AI generates a rich, detailed clinical and psychosocial profile for a unique encounter every time.
 
