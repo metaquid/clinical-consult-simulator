@@ -4,7 +4,7 @@
 
 An AI-powered training platform designed to help medical professionals master the art of doctor-patient communication in a safe, repeatable, and insightful environment.
 
-![ccs-Schema](clinical-consult-simulator.jpg)
+![clinical-consult-simulator](clinical-consult-simulator.jpg)
 *A schema demonstrating the core loop of configuring a case, chatting with the AI patient, and reviewing the performance analysis dashboard would go here.*
 
 ## About The Project
