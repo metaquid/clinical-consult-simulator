@@ -42,7 +42,6 @@ The goal is to build more empathetic, effective, and confident medical professio
 
 *   **Core Logic:**
     *   Integration with **Google Gemini API** for patient generation, dialogue, and performance analysis.
-    *   Support for **NVIDIA API** for alternative LLM-driven dialogue.
 
 *   **Audio:** Browser's native **Web Speech API (SpeechSynthesis)**.
 
