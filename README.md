@@ -54,7 +54,6 @@ To get a local copy up and running, follow these simple steps.
 You will need API keys from a supported provider to power the simulation. The analysis feature specifically requires a Google Gemini key.
 
 *   **Google Gemini API Key:** Get one from [Google AI Studio](https://aistudio.google.com/app/apikey).
-*   **NVIDIA API Key (Optional):** Get one from the [NVIDIA API Catalog](https://build.nvidia.com/).
 
 ### Installation
 
